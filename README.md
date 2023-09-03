@@ -1,0 +1,1 @@
+A Scheduling Bot built for the P2P-Betting app with Python for validating bets.
